@@ -1,0 +1,323 @@
+Microsoft Windows [Version 10.0.19045.6937]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Windows10_new\Documents\quickstuff\convert>C:\Users\Windows10_new\Documents\quickstuff\convert\trigger_convert.cmd
+
+C:\Users\Windows10_new\Documents\quickstuff\convert>"C:\Program Files (x86)\Steam\steamapps\common\Blender\blender.exe" --background --python guns_explosives_batch_convert.py
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+
+--- Processing: AK47.fbx ---
+FBX version: 7500
+C:\Users\Windows10_new\Documents\quickstuff\convert\guns_explosives_batch_convert.py:44: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+INFO Draco mesh compression is available, use library at C:\Program Files (x86)\Steam\steamapps\common\Blender\5.0\scripts\addons_core\io_scene_gltf2\extern_draco.dll
+16:42:34 | INFO: Starting glTF 2.0 export
+16:42:34 | INFO: Extracting primitive: Mesh
+16:42:35 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:35 | INFO: Primitives created: 1
+16:42:35 | INFO: Extracting primitive: Mesh.004
+16:42:35 | INFO: Primitives created: 1
+16:42:35 | INFO: Extracting primitive: Mesh.001
+16:42:35 | INFO: Primitives created: 1
+16:42:35 | INFO: Extracting primitive: Mesh.003
+16:42:35 | INFO: Primitives created: 1
+16:42:35 | INFO: Extracting primitive: Mesh.002
+16:42:35 | INFO: Primitives created: 1
+16:42:35 | INFO: Finished glTF 2.0 export in 0.9485042095184326 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\AK-47\AK47.glb
+
+--- Processing: AT_MINE.fbx ---
+FBX version: 7500
+16:42:35 | INFO: Starting glTF 2.0 export
+16:42:35 | INFO: Extracting primitive: Mesh
+16:42:36 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:36 | INFO: Primitives created: 1
+16:42:36 | INFO: Finished glTF 2.0 export in 0.9468209743499756 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\AT_MINE\AT_MINE.glb
+
+--- Processing: C4.fbx ---
+FBX version: 7500
+16:42:36 | INFO: Starting glTF 2.0 export
+16:42:36 | INFO: Extracting primitive: Mesh
+16:42:37 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:37 | INFO: Primitives created: 1
+16:42:37 | INFO: Finished glTF 2.0 export in 0.7679884433746338 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\C4\C4.glb
+
+--- Processing: Claymore.fbx ---
+FBX version: 7500
+16:42:37 | INFO: Starting glTF 2.0 export
+16:42:37 | INFO: Extracting primitive: Mesh
+16:42:38 | INFO: Primitives created: 1
+16:42:38 | INFO: Finished glTF 2.0 export in 0.7781713008880615 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Claymore\Claymore.glb
+
+--- Processing: FlareGun.fbx ---
+FBX version: 7500
+16:42:38 | INFO: Starting glTF 2.0 export
+16:42:38 | INFO: Extracting primitive: Mesh.002
+16:42:39 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:39 | INFO: Primitives created: 1
+16:42:39 | INFO: Extracting primitive: Mesh.003
+16:42:39 | INFO: Primitives created: 1
+16:42:39 | INFO: Extracting primitive: Mesh.001
+16:42:39 | INFO: Primitives created: 1
+16:42:39 | INFO: Extracting primitive: Mesh
+16:42:39 | INFO: Primitives created: 1
+16:42:39 | INFO: Finished glTF 2.0 export in 0.8883833885192871 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Flare_Gun\FlareGun.glb
+
+--- Processing: Flashbang.fbx ---
+FBX version: 7500
+16:42:39 | INFO: Starting glTF 2.0 export
+16:42:39 | INFO: Extracting primitive: Mesh
+16:42:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:40 | INFO: Primitives created: 1
+16:42:40 | INFO: Extracting primitive: Mesh.001
+16:42:40 | INFO: Primitives created: 1
+16:42:40 | INFO: Finished glTF 2.0 export in 0.7874648571014404 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Flashbang\Flashbang.glb
+
+--- Processing: FragGrenadeModel.fbx ---
+FBX version: 7500
+16:42:40 | INFO: Starting glTF 2.0 export
+16:42:40 | INFO: Extracting primitive: Mesh
+16:42:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:41 | INFO: Primitives created: 1
+16:42:41 | INFO: Extracting primitive: Mesh.001
+16:42:41 | INFO: Primitives created: 1
+16:42:41 | INFO: Finished glTF 2.0 export in 0.8873517513275146 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\FragGrenade\FragGrenadeModel.glb
+
+--- Processing: Grease_Gun.fbx ---
+FBX version: 7700
+16:42:41 | INFO: Starting glTF 2.0 export
+16:42:41 | INFO: Extracting primitive: Mesh
+16:42:42 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Extracting primitive: Mesh.002
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Extracting primitive: Mesh.003
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Extracting primitive: Mesh.001
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Extracting primitive: Mesh.004
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Extracting primitive: Mesh.005
+16:42:42 | INFO: Primitives created: 1
+16:42:42 | INFO: Finished glTF 2.0 export in 0.9579472541809082 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\GreaseGun\Grease_Gun.glb
+
+--- Processing: Luger.fbx ---
+FBX version: 7500
+16:42:42 | INFO: Starting glTF 2.0 export
+16:42:42 | INFO: Extracting primitive: Mesh.001
+16:42:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.003
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.007
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.006
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.005
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.004
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Extracting primitive: Mesh.002
+16:42:43 | INFO: Primitives created: 1
+16:42:43 | INFO: Finished glTF 2.0 export in 1.0134332180023193 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Luger\Luger.glb
+
+--- Processing: M24Grenade.fbx ---
+FBX version: 7500
+16:42:43 | INFO: Starting glTF 2.0 export
+16:42:43 | INFO: Extracting primitive: Mesh
+16:42:44 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:44 | INFO: Primitives created: 1
+16:42:44 | INFO: Finished glTF 2.0 export in 0.8444418907165527 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\M24_Grenade\M24Grenade.glb
+
+--- Processing: M4A1.fbx ---
+FBX version: 7500
+16:42:44 | INFO: Starting glTF 2.0 export
+16:42:44 | INFO: Extracting primitive: Mesh.001
+16:42:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.011
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.002
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.010
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.009
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.007
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.003
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.004
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.005
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.006
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.012
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Extracting primitive: Mesh.008
+16:42:45 | INFO: Primitives created: 1
+16:42:45 | INFO: Finished glTF 2.0 export in 0.7968888282775879 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\M4A1\M4A1.glb
+
+--- Processing: Molotov_Cocktail.fbx ---
+FBX version: 7300
+16:42:45 | INFO: Starting glTF 2.0 export
+16:42:45 | INFO: Extracting primitive: Mesh
+16:42:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:46 | INFO: Primitives created: 1
+16:42:46 | INFO: Extracting primitive: Mesh.001
+16:42:47 | INFO: Primitives created: 1
+16:42:47 | INFO: Extracting primitive: Mesh.002
+16:42:47 | INFO: Primitives created: 1
+16:42:47 | INFO: Finished glTF 2.0 export in 1.7854728698730469 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Molotv_Cocktail\Molotov_Cocktail.glb
+
+--- Processing: Nuclear_Bomb.fbx ---
+FBX version: 7500
+16:42:47 | INFO: Starting glTF 2.0 export
+16:42:47 | INFO: Extracting primitive: Mesh
+16:42:48 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:48 | INFO: Primitives created: 1
+16:42:48 | INFO: Finished glTF 2.0 export in 1.113882303237915 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Nuclear_Bomb\Nuclear_Bomb.glb
+
+--- Processing: Pipe_Bomb.fbx ---
+FBX version: 7500
+16:42:48 | INFO: Starting glTF 2.0 export
+16:42:48 | INFO: Extracting primitive: Pipe_Bomb
+16:42:49 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:49 | INFO: Primitives created: 1
+16:42:49 | INFO: Finished glTF 2.0 export in 0.8871614933013916 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Pipe_Bomb\Pipe_Bomb.glb
+
+--- Processing: Makarov.fbx ---
+FBX version: 7700
+16:42:49 | INFO: Starting glTF 2.0 export
+16:42:49 | INFO: Extracting primitive: Mesh
+16:42:50 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.001
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.002
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.003
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.004
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.005
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Extracting primitive: Mesh.006
+16:42:50 | INFO: Primitives created: 1
+16:42:50 | INFO: Finished glTF 2.0 export in 0.6676158905029297 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Pistol_MK\Makarov.glb
+
+--- Processing: Shotgun.fbx ---
+FBX version: 7500
+16:42:50 | INFO: Starting glTF 2.0 export
+16:42:50 | INFO: Extracting primitive: Mesh
+16:42:51 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:51 | INFO: Primitives created: 1
+16:42:51 | INFO: Extracting primitive: Mesh.001
+16:42:51 | INFO: Primitives created: 1
+16:42:51 | INFO: Extracting primitive: Mesh.002
+16:42:51 | INFO: Primitives created: 1
+16:42:51 | INFO: Extracting primitive: Mesh.003
+16:42:51 | INFO: Primitives created: 1
+16:42:51 | INFO: Finished glTF 2.0 export in 0.9963009357452393 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Shotgun\Shotgun.glb
+
+--- Processing: Smoke_Grenade.fbx ---
+FBX version: 7500
+16:42:51 | INFO: Starting glTF 2.0 export
+16:42:51 | INFO: Extracting primitive: Mesh
+16:42:52 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:52 | INFO: Primitives created: 1
+16:42:52 | INFO: Extracting primitive: Mesh.001
+16:42:52 | INFO: Primitives created: 1
+16:42:52 | INFO: Finished glTF 2.0 export in 1.0382368564605713 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Smoke_Grenade\Smoke_Grenade.glb
+
+--- Processing: Sniper.fbx ---
+FBX version: 7500
+16:42:52 | INFO: Starting glTF 2.0 export
+16:42:52 | INFO: Extracting primitive: Barrel
+16:42:53 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: Bolt
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: FlipFlap
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: IronSight
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: Magazine
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: Scope
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: Stock
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Extracting primitive: Trigger
+16:42:53 | INFO: Primitives created: 1
+16:42:53 | INFO: Finished glTF 2.0 export in 0.6154139041900635 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Sniper\Sniper.glb
+
+--- Processing: Suomi_KP.fbx ---
+FBX version: 7500
+16:42:53 | INFO: Starting glTF 2.0 export
+16:42:53 | INFO: Extracting primitive: Mesh
+16:42:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Extracting primitive: Mesh.001
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Extracting primitive: Mesh.002
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Extracting primitive: Mesh.003
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Extracting primitive: Mesh.004
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Extracting primitive: Mesh.005
+16:42:54 | INFO: Primitives created: 1
+16:42:54 | INFO: Finished glTF 2.0 export in 1.0089240074157715 s
+
+Successfully exported to: C:\Users\Windows10_new\Downloads\Guns&Explosives (1)_glb\Suomi_KP\Suomi_KP.glb
+
+BATCH CONVERSION V4 COMPLETE!
+
+Blender quit
+
+C:\Users\Windows10_new\Documents\quickstuff\convert>PAUSE
+Press any key to continue . . .
+
+C:\Users\Windows10_new\Documents\quickstuff\convert>
